@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sushi-page/static/css/main.0c33029a.css",
-    "main.js": "/sushi-page/static/js/main.04cc4dda.js",
+    "main.css": "/sushi-page/static/css/main.52ddaeae.css",
+    "main.js": "/sushi-page/static/js/main.5495f1dc.js",
     "static/media/popular_bg.png": "/sushi-page/static/media/popular_bg.37a5a90bc30e0fd37c06.png",
     "static/media/subscribe_bg.png": "/sushi-page/static/media/subscribe_bg.23259a4ecf2bfa3337fd.png",
     "static/media/japanese_drinks.png": "/sushi-page/static/media/japanese_drinks.b05837a457eaa2d478fe.png",
@@ -9,11 +9,11 @@
     "static/media/about_bg1.png": "/sushi-page/static/media/about_bg1.7ba069f5e56ce7760947.png",
     "static/media/about_bg2.png": "/sushi-page/static/media/about_bg2.fe1e1ec8c0c1ac9f80ac.png",
     "index.html": "/sushi-page/index.html",
-    "main.0c33029a.css.map": "/sushi-page/static/css/main.0c33029a.css.map",
-    "main.04cc4dda.js.map": "/sushi-page/static/js/main.04cc4dda.js.map"
+    "main.52ddaeae.css.map": "/sushi-page/static/css/main.52ddaeae.css.map",
+    "main.5495f1dc.js.map": "/sushi-page/static/js/main.5495f1dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c33029a.css",
-    "static/js/main.04cc4dda.js"
+    "static/css/main.52ddaeae.css",
+    "static/js/main.5495f1dc.js"
   ]
 }
